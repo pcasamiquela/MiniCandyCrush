@@ -1,0 +1,6 @@
+#define SCREEN_WIDTH 1024
+#define SCREEN_HEIGHT 768
+#define CELL_WIDTH 80
+#define CELL_HEIGHT 80
+#define CELL_WIDTH 80
+#define CELL_HEIGHT 80
